@@ -8,4 +8,4 @@ class Writer:
         pass
 
     def write_yaml(self, file: str) -> None:
-        return NotImplemented
+        pass
